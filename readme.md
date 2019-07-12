@@ -15,4 +15,4 @@ define(function(){
 ```
 # AMD CMD区别 
 执行机制不同，模块的加载时机是一样的  
-AMD中callback早require中执行，CMD中在在define执行
+AMD中callback是在require中执行，CMD中在在define执行
